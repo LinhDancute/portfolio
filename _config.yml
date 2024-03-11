@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Nguyen Dao Linh Dan"
   pronouns         : # example: "she/her"  
-  bio              : ".Net Developer"
+  bio              : ".NET Developer"
   location         : "District 8, HCM City"
   employer         : "Saigon University"
   uri              : # https://mail.google.com/mail/u/3/#inbox
@@ -42,7 +42,7 @@ author:
   # bitbucket        : # Username - Update with your username on the site
   # codepen          : # Username
   # dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/LinhDancute"
   # kaggle           : # Username  
   # stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
